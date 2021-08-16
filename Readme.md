@@ -1,9 +1,7 @@
 # Website Thumbnail Generator
 
 Generate a thumbnail of any website.
-Written in Go and Vue. This project uses [screenshotapi.net](https://screenshotapi.net) head over there to create an account and get an API token.
-
-[View the live version here!](https://coffeecoding.dev/website-thumbnail-generator)
+Written in Go and Vue. This project uses [screenshotapi.net](https://screenshotapi.net)
 
 ## Go server
 
